@@ -11,18 +11,16 @@ branding:
   logo: Images/Brand/Logo.png
 
 links:
-  - text: Αρχική
-    link: https://about.cryptoblocks.gr
   - text: Οδηγοί Χρηστών
     link: https://tutorials.cryptoblocks.gr
-  - text: Cosmos
-    link: https://cosmos.cryptoblocks.gr
   - text: Aave
     link: https://aave.cryptoblocks.gr
   - text: Celo
     link: https://celo.cryptoblocks.gr
   - text: Ocean Protocol
     link: https://oceanprotocol.cryptoblocks.gr
+  - text: Σχετικά με μας
+    link: https://about.cryptoblocks.gr
 
 search:
   maxResults: 10
